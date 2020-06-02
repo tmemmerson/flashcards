@@ -15,7 +15,7 @@ _This is a webpage designed to utilize javascript to render dynamic flash cards_
 
 ## Known Bugs
 
-_No known bugs as of 6/2/2020_
+_Elements are not yet displayed accurately_
 
 ## Support and contact details
  
