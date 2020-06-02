@@ -18,7 +18,7 @@ _This is a webpage designed to utilize javascript to render dynamic flash cards_
 _No known bugs as of 6/2/2020_
 
 ## Support and contact details
-
+ 
 _For comments and concerns contact Tristan Emmerson (tristan@stickerslug.com)_
 
 ## Technologies Used
